@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map for R_Motor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+R_Motor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setting	KEYWORD2
+accelerate	KEYWORD2
+decelerate	KEYWORD2
+reset	KEYWORD2
+isMaxSpeed	KEYWORD2
